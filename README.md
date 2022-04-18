@@ -1,4 +1,4 @@
-# Lexical
+# Lexical -- facebook 开源富文本编辑器
 
 > Note: Lexical is currently in early development and APIs and packages are likely to change quite often.
 
